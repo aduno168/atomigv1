@@ -7,7 +7,7 @@
     "Test",
     "atomigv1"
   ],
-  "repository": "https://github.com/atom/atomigv1",
+  "repository": "https://github.com/aduno168/atomigv1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
