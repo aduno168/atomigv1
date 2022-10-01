@@ -1,11 +1,11 @@
 {
-  "name": "atomigv1",
+  "name": "atomigv2",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "Test atomigv1",
+  "description": "Test atomigv2",
   "keywords": [
     "Test",
-    "atomigv1"
+    "atomigv2"
   ],
   "repository": "https://github.com/aduno168/atomigv1",
   "license": "MIT",
