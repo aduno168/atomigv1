@@ -2,10 +2,11 @@
   "name": "สวัสดีชาวโลก",
   "theme": "syntax",
   "version": "0.1.1",
-  "description": "Test atomigv2",
+  "description": "Test atomigv2 สวัสดีชาวโลก",
   "keywords": [
     "Test",
-    "atomigv2"
+    "atomigv2",
+    "สวัสดีชาวโลก"
   ],
   "repository": "https://github.com/aduno168/atomigv1",
   "license": "MIT",
