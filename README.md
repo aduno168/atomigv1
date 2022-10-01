@@ -1,6 +1,5 @@
-# atomigv1 theme V3
+# atomigv1 theme EX
 
-Hello World atomigv3
+Hello World atomigex
 
-## สวัสดีชาวโลก
-My name is Atomig V3
+My name is Atomig ex

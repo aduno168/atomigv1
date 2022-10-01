@@ -1,12 +1,11 @@
 {
-  "name": "atomigv3",
+  "name": "atomigex",
   "theme": "syntax",
-  "version": "0.4.0",
-  "description": "Test atomigv3 สวัสดีชาวโลก",
+  "version": "0.0.0",
+  "description": "Test atomigex",
   "keywords": [
     "Test",
-    "atomigv3",
-    "สวัสดีชาวโลก"
+    "atomigex"
   ],
   "repository": "https://github.com/aduno168/atomigv1",
   "license": "MIT",
