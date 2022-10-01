@@ -1,8 +1,6 @@
-# atomigv1 theme
+# atomigv1 theme V3
 
-Hello World atomigv2
+Hello World atomigv3
 
 ## สวัสดีชาวโลก
-My name is Atomig V2
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+My name is Atomig V3

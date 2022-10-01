@@ -1,11 +1,11 @@
 {
-  "name": "atomigv2",
+  "name": "atomigv3",
   "theme": "syntax",
   "version": "0.4.0",
-  "description": "Test atomigv2 สวัสดีชาวโลก",
+  "description": "Test atomigv3 สวัสดีชาวโลก",
   "keywords": [
     "Test",
-    "atomigv2",
+    "atomigv3",
     "สวัสดีชาวโลก"
   ],
   "repository": "https://github.com/aduno168/atomigv1",
